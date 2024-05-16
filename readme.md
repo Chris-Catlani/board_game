@@ -1,1 +1,1 @@
-Informace k projekt naleznete na: [stránkách kroužku](https://kpostrava.github.io/project/board_game/)
+Informace k projektu naleznete na: [stránkách kroužku](https://kpostrava.github.io/project/board_game/)
