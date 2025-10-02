@@ -1,1 +1,1 @@
-Novy klon board game
+Novy klon board game!
